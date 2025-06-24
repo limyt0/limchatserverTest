@@ -1,0 +1,16 @@
+C:\lytfile\study\epolltest\csharp\csclient\csclient\bin\Debug\net8.0-windows\csclient.exe
+C:\lytfile\study\epolltest\csharp\csclient\csclient\bin\Debug\net8.0-windows\csclient.deps.json
+C:\lytfile\study\epolltest\csharp\csclient\csclient\bin\Debug\net8.0-windows\csclient.runtimeconfig.json
+C:\lytfile\study\epolltest\csharp\csclient\csclient\bin\Debug\net8.0-windows\csclient.dll
+C:\lytfile\study\epolltest\csharp\csclient\csclient\bin\Debug\net8.0-windows\csclient.pdb
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.Form1.resources
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.csproj.GenerateResource.cache
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.AssemblyInfoInputs.cache
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.AssemblyInfo.cs
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.csproj.CoreCompileInputs.cache
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.dll
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\refint\csclient.dll
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.pdb
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\csclient.genruntimeconfig.cache
+C:\lytfile\study\epolltest\csharp\csclient\csclient\obj\Debug\net8.0-windows\ref\csclient.dll
